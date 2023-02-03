@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Imanol
-**I'm a Full Stack Developer with experience in PERN technologies**.
+#### 👯 I'm a Full Stack Developer with experience in PERN technologies.
+
 - 
 - 💻 I recently worked on a group project, The Gaming Farm, an e-commerce platform developed using PERN technologies and Scrum methodology. My role involved collaboration with a team of 6 developers using a shared repository.
 - 📈 This project showcases my experience in team development, as well as my skills in the PERN stack.
