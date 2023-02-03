@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Imanol
+
+- 👯 I’m a Full Stack Developer with experience in PERN technologies
+
+- 🔭 I’m currently working on mi Portfolio
+- 🌱 I’m currently learning Typescript and Bootstrap
+- 💬 Ask me about Javascript, React, Express, Sequelize
+
+- 📫 How to reach me:
+  email: imanolm93@gmail.com
+  linkedin: https://www.linkedin.com/in/imanol-malamud/
 
 <!--
 **ImanolMalamud/ImanolMalamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
