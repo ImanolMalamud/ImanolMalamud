@@ -2,9 +2,11 @@
 #### 👯 I'm a Full Stack Developer with experience in PERN technologies.
 
 - 💻 I recently worked on a group project, The Gaming Farm, an e-commerce platform developed using PERN technologies and Scrum methodology, in collaboration with a team of 6 developers using a shared repository. I primarily focused on frontend development, but I also felt confident in adding functionalities and improvements to the backend.
+- 💻 I've also worked by my own on an SPA with a custom API, which consumes data from an API of Pokemon. All with PERN technologies and Pure CSS, fully responsive. All in my repository, and here is the deploy: https://pokemon-frontend-beta.vercel.app/
 
-- 🔭 I’m currently working on mi Portfolio
-- 🌱 I’m currently learning Typescript and Bootstrap
+- 🔭 I’m currently working as a Freelancer, developing a web platform for managing client history, stock, and statistics in various enterprises (lubricenter, mechanical garage, photo store, and neumatics store). Utilizing the PERN technology stack and incorporating additional tools such as Material UI, Bootstrap and OAuth for a complete and secure user experience, and also Typescript to work in an environment less prone to error.
+
+- 🌱 I’m currently learning Typescript, Bootstrap and Material UI.
 - 💬 Ask me about Javascript, React, Express, Sequelize
 
 - 📫 How to reach me:
@@ -21,10 +23,9 @@
 
 💻 Recientemente trabajé en un proyecto en grupo, The Gaming Farm, una plataforma de ecommerce desarrollada con tecnologías PERN y metodología Scrum, hecha en colaboración con un equipo de 6 desarrolladores utilizando un repositorio compartido. Me enfoqué principalmente en el desarrollo frontend, pero también me he desenvuelto con confianza al momento de agregar funcionalidades y mejoras al backend.
 
-🔭 Actualmente estoy trabajando en mi Portfolio
+🔭 Actualmente estoy trabajando en mi Portfolio, desarrollando una applicacion web para manejar el historial del cliente, stock y estadisticas en diversas empresas (lubricentro, taller mecánico. negocio de fotos, y negocio de venta de neumáticos). Usando el stack de tecnologías PERN e incorporando herramientas adicionales tales como Material UI, Bootstrap y OAuth para una experiencia completa y segura, y tambien Typescript para trabajar en un ambiente menos propenso al error.
 
-🌱 Actualmente estoy aprendiendo Typescript y Bootstrap
-
+🌱 Actualmente estoy aprendiendo Typescript, Bootstrap y Material UI.
 💬 Pregúntame sobre Javascript, React, Express, Sequelize
 
 📫 Cómo contactarme: correo electrónico: 
