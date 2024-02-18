@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Freelancer, developing a web platform for managing client history, stock, and statistics in various enterprises (lubricenter, mechanical garage, photo store, and neumatics store). Utilizing the PERN technology stack and incorporating additional tools such as Material UI, Bootstrap and OAuth for a complete and secure user experience, and also Typescript to work in an environment less prone to error.
 
-- 🌱 I’m currently learning Typescript, Bootstrap and Material UI.
+- 🌱 I’m currently learning Next.js.
 - 💬 Ask me about Javascript, React, Express, Sequelize
 
 - 📫 How to reach me:
@@ -25,7 +25,7 @@ Soy un desarrollador Full Stack con experiencia en tecnologías PERN.
 
 🔭 Actualmente estoy trabajando en mi Portfolio, desarrollando una applicacion web para manejar el historial del cliente, stock y estadisticas en diversas empresas (lubricentro, taller mecánico. negocio de fotos, y negocio de venta de neumáticos). Usando el stack de tecnologías PERN e incorporando herramientas adicionales tales como Material UI, Bootstrap y OAuth para una experiencia completa y segura, y tambien Typescript para trabajar en un ambiente menos propenso al error.
 
-🌱 Actualmente estoy aprendiendo Typescript, Bootstrap y Material UI.
+🌱 Actualmente estoy aprendiendo Next.js
 💬 Pregúntame sobre Javascript, React, Express, Sequelize
 
 📫 Cómo contactarme: correo electrónico: 
