@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Imanol
-#### I'm a Full Stack Developer with experience in PERN technologies.
+#### I'm a Full Stack Developer.
 
 - 💻 I recently worked on a group project, The Gaming Farm, an e-commerce platform developed using PERN technologies and Scrum methodology, in collaboration with a team of 6 developers using a shared repository. I primarily focused on frontend development, but I also felt confident in adding functionalities and improvements to the backend.
 - 💻 I've also worked by my own on an SPA with a custom API, which consumes data from an API of Pokemon. All with PERN technologies and Pure CSS, fully responsive. All in my repository, and here is the deploy: https://pokemon-frontend-beta.vercel.app/
@@ -19,7 +19,7 @@
   
 ### ¡Hola! 👋 Soy Imanol
 
-Soy un desarrollador Full Stack con experiencia en tecnologías PERN.
+Soy un desarrollador Full Stack.
 
 💻 Recientemente trabajé en un proyecto en grupo, The Gaming Farm, una plataforma de ecommerce desarrollada con tecnologías PERN y metodología Scrum, hecha en colaboración con un equipo de 6 desarrolladores utilizando un repositorio compartido. Me enfoqué principalmente en el desarrollo frontend, pero también me he desenvuelto con confianza al momento de agregar funcionalidades y mejoras al backend.
 
