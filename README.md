@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Imanol
 #### I'm dedicated to providing solutions involving software and web development.
 
-- 🎨 Experience and expertise in UI/UX 🖱️
+- 🎨 Strong foundation in UI/UX design 🖱️ (Figma, Miro)
 
 - 💻 FullStack PERN and MERN. Typescript. NextJS. Tailwind.
 
@@ -18,7 +18,7 @@ If you’re considering a project collaboration, I’m ready for new challenges.
 
 #### Actualmente me dedico a brindar soluciones que impliquen desarrollo de software y páginas web.
 
-- 🎨 Experiencia y criterio en UI/UX 🖱️
+- 🎨 Experiencia y criterio en UI/UX 🖱️ (Figma, Miro)
 
 - 💻 FullStack PERN y MERN. Typescript. NextJS. Tailwind.
 
