@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Imanol
-#### I'm dedicated to providing solutions involving software and web development.
+#### I'm a Full Stack Developer dedicated to software and websites.
 
 - 🎨 Strong foundation in UI/UX design 🖱️ (Figma, Miro)
 
